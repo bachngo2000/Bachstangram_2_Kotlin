@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bachstagram</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">gnTxsEBK0aFLrTkRmituNBiAI8tFtRvYRvL2XRnu</string>
+    <string name="back4app_client_key">xQBjINCup4yk6sTvL4Ce3iK41mRBiA0QP3XIdsVe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
